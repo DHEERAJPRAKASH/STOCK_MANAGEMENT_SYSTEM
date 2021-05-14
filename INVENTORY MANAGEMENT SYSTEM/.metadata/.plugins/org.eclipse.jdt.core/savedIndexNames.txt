@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\SWING_PROJECTS\INVENTORY MANAGEMENT SYSTEM\.metadata\.plugins\org.eclipse.jdt.core
+2196199803.index
+1067094681.index
+724398808.index

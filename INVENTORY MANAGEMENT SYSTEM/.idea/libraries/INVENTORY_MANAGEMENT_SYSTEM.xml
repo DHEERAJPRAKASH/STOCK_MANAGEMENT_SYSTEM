@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="INVENTORY_MANAGEMENT_SYSTEM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/INVENTORY_MANAGEMENT_SYSTEM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
