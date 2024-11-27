@@ -1,3 +1,2 @@
-# STOCKMANAGEMENTSYSTEM
-THIS IS PROJECT WHICH CAN MANGE STOCKS AND PRINT BILLS. IT IS VERY USEFUL IN GENERATION OF GST REPORTS AND IT ALSO HAVE A DAILY BILLING SECTION WHICH IS VERY USEFUL TRACK OUR RECORDS ACCORDING TO OUR WISH.
-THIS IS VERY USEFUL FOR SHOPS FOR BILLING AND MANAGING STOCKS
+# STOCK MANAGEMENT SYSTEM
+This project helps manage stocks and generate bills. It is highly useful for generating GST reports and includes a daily billing section to track records as per your preferences. This tool is ideal for shops to manage billing and inventory efficiently.
